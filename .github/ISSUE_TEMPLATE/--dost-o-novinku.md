@@ -2,7 +2,7 @@
 name: Žádost o novinku
 about: Suggest an idea for this project
 title: Pojmenujte
-labels: enhancement
+labels: ''
 assignees: ''
 
 ---
