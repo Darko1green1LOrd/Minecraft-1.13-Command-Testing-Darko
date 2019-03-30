@@ -13,4 +13,4 @@ v 1.2 Přidán experiment Armor Stand Editor
 v 1.3 Většina TicTacToe command hor byly převedeny do funkcí pro lepší optimalizaci
 v 1.4 Hodne zlepšen systém tictactoe
 v 1.5 Přidána obrana cactus blocku neco jako pet guardiani
-v 1.6 Cactus pet protector byl hodne vylepšen
+v 1.6 Cactus pet protector byl hodne vylepšend
