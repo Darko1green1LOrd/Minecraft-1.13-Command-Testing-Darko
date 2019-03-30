@@ -1,6 +1,6 @@
 ---
 name: Chci video z podverze
-about: 'Jestli chcete video z podverte na Linky.md '
+about: 'Jestli chcete video z podverze na Linky.md '
 title: ''
 labels: Video
 assignees: ''
