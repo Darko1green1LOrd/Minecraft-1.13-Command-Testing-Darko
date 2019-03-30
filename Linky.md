@@ -1,5 +1,5 @@
 # Linky na videa k určitým změnám.
-Nemusí tu být video na kažou novou verzi Sveta
+Nemusí tu být video na kažou novou verzi Sveta, tyhle podvidea nemají hudbu ani nejsou editované.
 
 Linky: 
 
