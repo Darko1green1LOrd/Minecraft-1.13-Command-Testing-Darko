@@ -7,4 +7,4 @@ jak stáhnout cz verze : https://youtu.be/ZoIaZNgc-0A
 
 
 Tento Svět obsahuje ruzne konstrukce z command blocku a funkcí , nekteré jsou minihry a podobné veci
-Pokud chcete videt na videu neco z podverze napr 2.8 tak video bud už bude v linky.md nebo to napíšte do Issiues
+, Pokud chcete videt na videu neco z podverze napr 2.8 tak video bud už bude v linky.md nebo to napíšte do Issiues
