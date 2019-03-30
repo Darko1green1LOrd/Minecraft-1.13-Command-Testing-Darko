@@ -14,3 +14,4 @@ v 1.3 Většina TicTacToe command hor byly převedeny do funkcí pro lepší opt
 v 1.4 Hodne zlepšen systém tictactoe
 v 1.5 Přidána obrana cactus blocku neco jako pet guardiani
 v 1.6 Cactus pet protector byl hodne vylepšend
+v 1.7 Pŕidán vzdálený redstone pomocí knížky
