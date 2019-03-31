@@ -5,7 +5,7 @@ Linky:
 
 0.1 - Video: http://bit.ly/01upte
 
-1.5 - Video: http://bit.ly/15uptde
+1.5 - Video: http://bit.ly/15uptde - Editované i Hudba
 
 1.6 - Video: http://bit.ly/16upte
 
