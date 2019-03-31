@@ -3,7 +3,7 @@ Nemusí tu být video na kažou novou verzi Sveta, tyhle videa z podverzí nemaj
 
 **Nežádejte v issues o to abych natočil video z 0.2 až 1.4, předtím jsem jen nahrázel verzi novou verzí**
 
-Linky:
+Videá z podverzí:
 
 0.1 - Video: http://bit.ly/01upte - Editované i Hudba
 
