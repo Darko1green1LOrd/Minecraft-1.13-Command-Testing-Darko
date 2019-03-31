@@ -2,7 +2,7 @@
 name: Nahlášení Chyby
 about: Pomožte mi vylepšit mapu nahlašením chyby
 title: Jmeno
-labels: ''
+labels: Chyba
 assignees: ''
 
 ---
