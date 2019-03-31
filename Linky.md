@@ -7,6 +7,8 @@ Linky:
 
 0.1 - Video: http://bit.ly/01upte - Editované i Hudba
 
+1.2 - Video: http://bit.ly/12uptde - Editované i Hudba
+
 1.5 - Video: http://bit.ly/15uptde - Editované i Hudba
 
 1.6 - Video: http://bit.ly/16upte
