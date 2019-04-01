@@ -15,3 +15,5 @@ v 1.4 Hodne zlepšen systém tictactoe
 v 1.5 Přidána obrana cactus blocku neco jako pet guardiani
 v 1.6 Cactus pet protector byl hodne vylepšen
 v 1.7 Pŕidán vzdálený redstone pomocí knížky
+v 1.8 TicTacToe po resetu je možné vybrat který team bude první pomocí toho který začne, tohle tam bylo už předtím ale nebylo to graficky 
+udelané napr bossbary atd
