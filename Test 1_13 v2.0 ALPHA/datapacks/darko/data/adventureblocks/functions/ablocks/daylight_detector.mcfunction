@@ -1,0 +1,12 @@
+#DayLight Detector
+
+#---------------------------
+
+#Non Inverted Effect - Smites mobs
+execute as @e[type=!player,type=!armor_stand,limit=1,type=!experience_orb,type=!experience_bottle,type=!arrow,type=!boat,type=!area_effect_cloud,type=!chest_minecart,type=!command_block_minecart,type=!egg,type=!snowball,type=!eye_of_ender,type=!potion,type=!dragon_fireball,type=!evoker_fangs,type=!elder_guardian,type=!ender_pearl,type=!falling_block,type=!firework_rocket,type=!hopper_minecart,type=!fishing_bobber,type=!:item,type=!llama_spit,type=!item_frame,type=!leash_knot,type=!painting,type=!spectral_arrow,type=!tnt,type=!tnt_minecart,type=!trident] at @s if block ~ ~-0.10 ~ daylight_detector[inverted=false] run gamerule doFireTick false
+execute as @e[type=!player,type=!armor_stand,limit=1,type=!experience_orb,type=!experience_bottle,type=!arrow,type=!boat,type=!area_effect_cloud,type=!chest_minecart,type=!command_block_minecart,type=!egg,type=!snowball,type=!eye_of_ender,type=!potion,type=!dragon_fireball,type=!evoker_fangs,type=!elder_guardian,type=!ender_pearl,type=!falling_block,type=!firework_rocket,type=!hopper_minecart,type=!fishing_bobber,type=!:item,type=!llama_spit,type=!item_frame,type=!leash_knot,type=!painting,type=!spectral_arrow,type=!tnt,type=!tnt_minecart,type=!trident] at @s if block ~ ~-0.10 ~ daylight_detector[inverted=false] run summon lightning_bolt
+execute as @e[type=!player,type=!armor_stand,limit=1,type=!experience_orb,type=!experience_bottle,type=!arrow,type=!boat,type=!area_effect_cloud,type=!chest_minecart,type=!command_block_minecart,type=!egg,type=!snowball,type=!eye_of_ender,type=!potion,type=!dragon_fireball,type=!evoker_fangs,type=!elder_guardian,type=!ender_pearl,type=!falling_block,type=!firework_rocket,type=!hopper_minecart,type=!fishing_bobber,type=!:item,type=!llama_spit,type=!item_frame,type=!leash_knot,type=!painting,type=!spectral_arrow,type=!tnt,type=!tnt_minecart,type=!trident] at @s if block ~ ~-0.10 ~ daylight_detector[inverted=false] run kill @s
+#Inverted Effect - Smites player 
+execute as @e[type=player] at @s if block ~ ~-0.10 ~ daylight_detector[inverted=true] run gamerule doFireTick false
+execute as @e[type=player] at @s if block ~ ~-0.10 ~ daylight_detector[inverted=true] run summon lightning_bolt
+execute as @e[type=player] at @s if block ~ ~-0.10 ~ daylight_detector[inverted=true] run kill @s
