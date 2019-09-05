@@ -17,3 +17,4 @@ v 1.6 Cactus pet protector byl hodne vylepšen
 v 1.7 Pŕidán vzdálený redstone pomocí knížky
 v 1.8 TicTacToe po resetu je možné vybrat který team bude první pomocí toho který začne, tohle tam bylo už předtím ale nebylo to graficky udelané napr bossbary atd
 v 1.9 Spravena chyba když si nastavíte bossbary na off tak to nevypne vyberte kdo je na tahu , přidán clearchat čiže i vylepšená funkce u tictactoe chat dialogu
+v 2.0 Přidány adventure blocks když na ne stoupneš nebo se jich dotkneš tak neco udealjí získaš je zadaním príkazu /function adventureblocks:get pak jen otevři knihu , itemy mají popisek co dealjí
